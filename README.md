@@ -1,2 +1,2 @@
-# CustomPlayerParticle
-A plugin that customizes the particles flying around the player.
+# AuraCraze
+A PocketMine-MP plugin that beautifies characters like particles, adds new items with strange features.
